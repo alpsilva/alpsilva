@@ -49,7 +49,7 @@
 </p>
 
 
-## ⚙️ **Equipment Specs and tool preferences:**
+## ⚙️ **Equipment Specs and Software Preferences:**
 <ul>
   <li><b>OS:</b> Ubuntu 22 </li>
   <li><b>Laptop: </b> HP Probook 640 G8 (augmented to 16gb RAM)</li>
