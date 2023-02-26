@@ -11,6 +11,8 @@
 - 👯 I’m looking to collaborate on **Python and Data Science projects.**
 - 💬 Ask me about **Python, Process Mining, Databases and Astronomy.**
 
+<br/>
+
 ## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> **Languages & Tools:**
 
 <p align="center"> 
@@ -38,14 +40,14 @@
 
  <p align="center">
   <a href="https://github.com/alpsilva">
-   <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=alpsilva&show_icons=true&theme=radical&count_private=true">
+   <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=alpsilva&show_icons=true&theme=dark&count_private=true">
   </a>
   <a href="https://github.com/alpsilva/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=alpsilva&layout=compact&theme=radical&langs_count=6" />
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=alpsilva&layout=compact&theme=dark&langs_count=6" />
   </a>
 
 <p align="center">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alpsilva&theme=radical&hide_border=true"/>
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alpsilva&theme=dark&hide_border=true"/>
 </p>
 
 
