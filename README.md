@@ -2,7 +2,7 @@
 <h1 align="center">Hey there, little stranger. There may be questions you need to ask!</h1>
 <h3 align="center">alpsilva here, also known as André Luiz, of course! Interested in Data Science, IoT, Robotics and all things tech, really!</h3>
 
-<img align="right" alt="coding" width="300" src="./compilatron.gif">
+<p align="center"><img alt="compilatron" width="200" src="./compilatron.gif"></p>
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
 
